@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leon9dragon&layout=compact&theme=radical&card_width=445)](https://github.com/anuraghazra/github-readme-stats)  
 <a href="https://github.com/leon9dragon/all_blogs">
   <img align="center" width=495 src="https://github-readme-stats.vercel.app/api/pin/?username=leon9dragon&repo=all_blogs&show_owner=true&theme=radical" />
-</a>
+</a>  
