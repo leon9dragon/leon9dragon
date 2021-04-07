@@ -12,6 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-⭐ Hi, If you think my articles are good please give me stars. 🌟
-⭐ 嗨, 如果您觉得我的文章对您有帮助, 麻烦请给我点个星星. 🌟
+⭐ Hi, If you think my articles are good please give me stars. 🌟  
+⭐ 嗨, 如果您觉得我的文章对您有帮助, 麻烦请给我点个星星. 🌟  
 [![Leon9dragon's GitHub stats](https://github-readme-stats.vercel.app/api?username=leon9dragon)](https://github.com/anuraghazra/github-readme-stats)
