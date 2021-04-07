@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 <h3>⭐ 嗨, 如果您觉得我的文章对您有帮助, 麻烦请给我点个星星. 🌟</h3>   
 
 ![leon9dragon's GitHub stats](https://github-readme-stats.vercel.app/api?username=leon9dragon&show_icons=true&theme=radical)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leon9dragon&layout=compact&theme=radical&card_width=495)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leon9dragon&layout=compact&theme=radical&card_width=445)](https://github.com/anuraghazra/github-readme-stats)
 
