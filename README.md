@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 ![leon9dragon's GitHub stats](https://github-readme-stats.vercel.app/api?username=leon9dragon&show_icons=true&theme=radical)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leon9dragon&layout=compact&theme=radical&card_width=445)](https://github.com/anuraghazra/github-readme-stats)  
-[![BLOGS REPO](https://github-readme-stats.vercel.app/api/pin/?username=leon9dragon&repo=all_blogs&show_owner&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![BLOGS REPO](https://github-readme-stats.vercel.app/api/pin/?username=leon9dragon&repo=all_blogs&show_owner=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
